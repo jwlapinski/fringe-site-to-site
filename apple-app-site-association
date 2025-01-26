@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3KYT8G4RZY.com.jwlapps.Fringe",
+        "paths": ["/invite/*", "/profile/*"]
+      }
+    ]
+  }
+}
